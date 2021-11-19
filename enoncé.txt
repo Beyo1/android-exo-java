@@ -1,0 +1,1 @@
+le but de mon tp est de cree une classe appareils ainsi que les classes cuisinieres et foyer qui herite de celle ci 
